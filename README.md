@@ -23,7 +23,7 @@ Link to story: https://public.tableau.com/profile/monica.m.holmes#!/vizhome/Outc
 
 For this analysis I used Tableau for visualizations and Pandas to convert the CSV file, “tripduration” column, to a DateTime datatype (00:00:00).
 
-*Link to story: [Click Here]*
+*Link to story: Click Here!*
  
 ## *Deliverable 1: Change Trip Duration to a Datetime Format*
 
